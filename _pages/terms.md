@@ -7,33 +7,66 @@ modified: 2016-06-06
 {% include base_path %}
 {% include toc %}
 
-## Privacy Policy
+<h1>Education</h1>
+<HR />
+<table>
+  <tbody>
+    <tr>
+    <td>
+    <a href="https://www.vu.edu.au/vu-home">
+    <img src="../images/NTU.png" alt width="100px" height="100px">
+    </a>   
+    </td>
+    <td align="left">
+      <pre>
+      <b>Nanyang Technologitical University</b>
+      M.S., Master of Computer Contorl & Automation
+      Nanyang Technologitical University (Singapore)
+      August, 2024 -- Sep, 2026 (expected)
+      </pre>
+    </td>
+    </tr>
+    <tr>
+    <td>
+    <a>
+    <img src="../images/HENU.jpg" alt width="100px" height="100px">
+    </a> 
+    </td>
+    <td align="left">
+      <pre>
+      <b>Henan University</b>
+      B.S., Department of Information Technology
+      Melbourne (Australia)
+      Sep, 2020 -- Jun, 2024
+      </pre>
+    </td>
+    </tr>
+    <tr>
+    <td>
+    <a>
+    <img src="https://content.vu.edu.au/sites/default/files/site-media/2020-12/vu-logo.svg" alt width="100px" height="100px">
+    </a>   
+    </td>
+    <td align="left">
+      <pre> 	
+     <b>Victoria University</b>  
+     B.S., Department of Information Technology  
+     Melbourne (Australia)  
+     Sep, 2020 -- Jun, 2024  
+      </pre>
+    </td>
+    </tr>
+  </tbody>
+</table>
+<h1>All News</h1>
+<HR />
+<ul>
+<pre>
+<li><b><em>2024.4</em></b>  I received my acceptance letter and want to become a PhD to continue the research I am interested in.
+</li>
+<li><b><em>2024.2</em></b>  I accepted an offer to work as an intern at Jude Medical in Shenzhen <b>(Top 10 Healthcare Innovative Payment Companies in China 2021)</b>.
+</li>
+<li><b><em>2024.2</em></b>  I accepted an offer to work as an intern at Jude Medical in Shenzhen <b>(Top 10 Healthcare Innovative Payment Companies in China 2021)</b>.
+</li>
+</pre>
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
-
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
-
-### Log Files
-
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
-
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
-
-All of this information is not linked to anything that is personally identifiable.
-
-### Cookies and Web Beacons
-
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).

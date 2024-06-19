@@ -8,8 +8,8 @@ redirect_from:
 ---
 <style>
 </style>
-Education
-======
+<h1>Education</h1>
+<HR>
 <table>
   <tbody>
     <tr>
@@ -61,21 +61,15 @@ Education
 </table>
 
 
-Work experience
-======
+<h1>Work experience</h1>
+<HR>
 <pre>
 <b>Spring 2024: Customization Engineer (intern)</b>
   * Shenzhen Juding Medical Co., LTD
   <b>(Top 10 Healthcare Innovative Payment Companies in China 2021)</b>
   * Duties includes: Data analysis about the patient in medical field, 
   and coding medical systems according to the needs of cutomers
-  * Supervisor: Chong Li
-  
+  * Supervisor: Chong Li 
 </pre>
-Project
-======
 
 
-Service and leadership
-======
-<b>Spring 2022: Huawei Cloud AI volunteer</b>

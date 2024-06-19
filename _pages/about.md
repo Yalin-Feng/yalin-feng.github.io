@@ -24,4 +24,6 @@ Recently I have been interested in the following topic:
 
 * **2024.4** I received my acceptance letter and want to become a PhD to continue the research I am interested in.
 * **2024.2** I accepted an offer to work as an intern at Jude Medical in Shenzhen (Top 10 Healthcare Innovative Payment Companies in China 2021).
- <a href="publications.md">↑All news</a>
+<pre>
+ <a href="terms.md">↑All news</a>
+ </pre>
